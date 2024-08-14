@@ -19,11 +19,9 @@ game_manager := class(creative_device):
     @editable
     var ClassSelector : []class_and_team_selector_device = array{}
 
-    @editable var GoldForElimination : int = 10
-
     OnBegin<override>()<suspends>:void=
-        TeamOneBlue.EnemyEliminatedEvent.Subscribe(OnTeamOneScore)
-        TeamTwoRed.EnemyEliminatedEvent.Subscribe(OnTeamTwoScore)
+        #TeamOneBlue.EnemyEliminatedEvent.Subscribe(OnTeamOneScore)
+        #TeamTwoRed.EnemyEliminatedEvent.Subscribe(OnTeamTwoScore)
         EliminationManager.EliminatedEvent.Subscribe(OnEnemyKilled)
         AllPlayers := GetPlayspace().GetPlayers()
         for(L_Agent : AllPlayers):
