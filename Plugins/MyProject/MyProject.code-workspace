@@ -2,27 +2,27 @@
     "folders": [
         {
             "name": "MyProject",
-            "path": "D:/FortniteProjects/Sasha/Plugins/MyProject/Content"
+            "path": "C:/Users/Arris/Documents/GitHub/Sasha/Plugins/MyProject/Content"
         },
         {
             "name": "MyProject/Assets",
-            "path": "C:/Users/Lelious/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/MyProject-Assets"
+            "path": "C:/Users/Arris/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/MyProject-Assets"
         },
         {
             "name": "vproject - DO NOT MODIFY",
-            "path": "C:/Users/Lelious/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/vproject"
+            "path": "C:/Users/Arris/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/vproject"
         },
         {
             "name": "Verse",
-            "path": "C:/Users/Lelious/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/Verse"
+            "path": "C:/Users/Arris/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/Verse"
         },
         {
             "name": "UnrealEngine",
-            "path": "C:/Users/Lelious/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/UnrealEngine"
+            "path": "C:/Users/Arris/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/UnrealEngine"
         },
         {
             "name": "Fortnite",
-            "path": "C:/Users/Lelious/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/Fortnite"
+            "path": "C:/Users/Arris/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/MyProject/Fortnite"
         }
     ],
     "settings": {
